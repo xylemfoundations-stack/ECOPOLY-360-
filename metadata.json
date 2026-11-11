@@ -1,0 +1,6 @@
+{
+  "name": "ECOPOLY 360° Life Management Survey",
+  "description": "Mobile-friendly student intern field survey application for ECOPOLY.LIFE and Xylem Foundations, assessing 12 sustainability sectors across households, farms, and businesses.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
